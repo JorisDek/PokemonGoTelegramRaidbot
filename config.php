@@ -6,7 +6,7 @@ define('DB_USER',			'your_database_user');
 define('DB_PASSWORD',			'your_database_password');
 
 // General config
-define('DEBUG',				true);
+define('DEBUG',				false);
 define('CONFIG_LOGFILE',		'/var/log/tg-bots/dev-raid-bot.log');
 define('CONFIG_HASH',			'06e7bce51dca13ca63bea951ebada1f17d20f4897407c88728afc7443aa11deabe2c1c298f946421b4fe562789579b97b3c363b82efc3a49e4c7099bb6f5af55');
 define('DDOS_MAXIMUM',			'10');
@@ -17,7 +17,7 @@ define('CURL_PROXYSERVER',		'http://your.proxyserver.com:8080');
 
 // Access
 define('MAINTAINER',			'@JorisDek');
-define('MAINTAINER_ID',			'your_tg_integer');
+define('MAINTAINER_ID',			'@JorisDek');
 define('BOT_NAME',			'@LeidschendamVoorburgRaidBot');
 define('BOT_ADMINS',			'@JorisDek');
 define('BOT_ACCESS',			'');
