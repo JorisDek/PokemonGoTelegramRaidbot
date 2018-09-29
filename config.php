@@ -19,7 +19,7 @@ define('CURL_PROXYSERVER',		'http://your.proxyserver.com:8080');
 define('MAINTAINER',			'@JorisDek');
 define('MAINTAINER_ID',			'your_tg_integer');
 define('BOT_NAME',			'@LeidschendamVoorburgRaidBot');
-define('BOT_ADMINS',			'');
+define('BOT_ADMINS',			'@JorisDek');
 define('BOT_ACCESS',			'');
 
 // Languages: EN, DE, NL or PT-BR
